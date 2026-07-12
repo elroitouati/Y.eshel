@@ -1,0 +1,4 @@
+project_id = "veuogwohiygorutxlltc"
+
+[functions.review-plan]
+verify_jwt = true
